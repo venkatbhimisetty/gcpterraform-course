@@ -1,4 +1,4 @@
-## gcpterraform-course
+## Gcpterraform-course
  * Gcp terraform-scripts
 
 ### Terraform scripts overview
