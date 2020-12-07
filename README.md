@@ -1,2 +1,2 @@
 ## gcpterraform-course
-Gcp terraform-scripts
+ * Gcp terraform-scripts
