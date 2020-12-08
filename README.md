@@ -5,7 +5,7 @@
 |  Demo Directory  |  Description  |
 | ---------------  |  ------------ |
 | demo-1 | First steps: Launching gcp instance |
-| demo-2 | Startup script & adding local key to instanceg |
+| demo-2 | Startup script & adding local key gcp to instance |
 | demo-3 | Executing script locally |
 | demo-4	| Outputting |
 | demo-5 | Data Source |
