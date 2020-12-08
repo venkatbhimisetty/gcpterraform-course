@@ -16,7 +16,8 @@ resource "google_compute_instance" "test-instance" {
    network = "default"
 
    access_config {
-     // Include this section to give the VM an external ip address
+     // the VM an external ip address
    }
  }
 }
+
