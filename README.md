@@ -7,9 +7,9 @@
 | demo-1 | First steps: Launching gcp instance |
 | demo-2 | Startup script & adding local key gcp to instance |
 | demo-3 | Executing script locally |
-| demo-4	| Outputting |
-| demo-5 | Data Source |
-| demo-6 |	Modules |
+| demo-4 | Outputting |
+| demo-5 | GCS Bucket |
+| demo-6 | GCS as Backend for state files |
 | demo-7 |	AWS VPC |
 | demo-8 |	EC2 instance within VPC with securitygroup |
 | demo-9 |	EC2 instance with EBS volumes |
