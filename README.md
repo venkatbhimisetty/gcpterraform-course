@@ -10,9 +10,9 @@
 | demo-4 | Outputting |
 | demo-5 | GCS Bucket |
 | demo-6 | GCS as Backend for state files |
-| demo-7 |	AWS VPC |
-| demo-8 |	EC2 instance within VPC with securitygroup |
-| demo-9 |	EC2 instance with EBS volumes |
+| demo-7 |	GCP VPC with default firewalls |
+| demo-8 |	Data Source |
+| demo-9 |	Modules (mudules variable = module.vpc.outfile name in vpc) |
 | demo-10 |	Userdata and cloudinit |
 | demo-11 |	Route53 (DNS) |
 | demo-12 |	RDS |
